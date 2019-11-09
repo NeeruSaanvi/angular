@@ -1,0 +1,11 @@
+ 
+.logo {
+    position: absolute;
+    $distance: 50%;
+    top: $distance;
+    left: $distance;
+    transform: translateX(-$distance) translateY(-$distance);
+    .logo-img {
+        width: 135px; 
+    } 
+} 
